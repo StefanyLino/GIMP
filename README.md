@@ -9,5 +9,5 @@ PROJETOS:
 - Praia (pessoas retiradas)
 - Criação de banner
 
-## MAS AFINAL, O QUE É GIMP? width=50 height=50 align=center>
+## MAS AFINAL, O QUE É GIMP? 
 <b>GIMP (GNU Image Manipulation Program)</b> é um <b>software de código aberto</b> usado para <b>edição de imagens, desenho gráfico e retoque de fotos</b>. Ele oferece uma ampla variedade de ferramentas e recursos semelhantes aos encontrados em programas como o Adobe Photoshop, incluindo camadas, máscaras, filtros, e pincéis personalizados. O GIMP é popular entre designers gráficos, fotógrafos e artistas digitais, e é gratuito para download e uso em diversas plataformas, como Windows, macOS e Linux.
